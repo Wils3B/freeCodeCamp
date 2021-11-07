@@ -1,0 +1,24 @@
+{
+	"name": "fcc-learn-npm-package-json",
+	"dependencies": {
+		"express": "^4.14.0",
+		"moment": "2.14.0"
+	},
+	"main": "server.js",
+	"scripts": {
+		"start": "node server.js"
+	},
+	"repository": {
+		"type": "git",
+		"url": "https://github.com/Wils3B/freeCodeCamp.git"
+	},
+	"author": "Wilson Gouanet<wilstito@gmail.com>",
+	"description": "Part 1 of Free Code Camp Backend Challenges",
+	"keywords": [
+		"freecodecamp",
+		"Programming",
+		"Backend"
+	],
+	"license": "GPL-3.0",
+	"version": "1.0.0"
+}
