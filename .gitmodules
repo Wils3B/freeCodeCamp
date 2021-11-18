@@ -1,3 +1,6 @@
 [submodule "backend/fcc-timestamp-microservice"]
 	path = backend/fcc-timestamp-microservice
 	url = git@github.com:Wils3B/fcc-timestamp-microservice.git
+[submodule "backend/fcc-whoami"]
+	path = backend/fcc-whoami
+	url = git@github.com:Wils3B/fcc-whoami.git
