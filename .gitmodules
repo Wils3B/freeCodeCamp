@@ -7,3 +7,6 @@
 [submodule "backend/fcc-url-shortener"]
 	path = backend/fcc-url-shortener
 	url = git@github.com:Wils3B/fcc-url-shortener.git
+[submodule "backend/fcc-exercise-tracker"]
+	path = backend/fcc-exercise-tracker
+	url = git@github.com:Wils3B/fcc-exercise-tracker.git
