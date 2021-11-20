@@ -10,3 +10,6 @@
 [submodule "backend/fcc-exercise-tracker"]
 	path = backend/fcc-exercise-tracker
 	url = git@github.com:Wils3B/fcc-exercise-tracker.git
+[submodule "backend/fcc-file-metadata"]
+	path = backend/fcc-file-metadata
+	url = git@github.com:Wils3B/fcc-file-metadata.git
